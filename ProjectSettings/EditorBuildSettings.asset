@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/grabbed-object_example.unity
+    guid: 0e3d18f4f85e04d509e2054c93d6c2bf
+  - enabled: 0
+    path: Assets/bow-arrow_example.unity
+    guid: cd9ae9e1eff8a43f3b0163b7d93bca11
   m_configObjects: {}
