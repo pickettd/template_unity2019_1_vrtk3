@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 0
-    y: 45
+    x: 8
+    y: 51
     width: 1610
     height: 934
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 9}
-  m_MinSize: {x: 950, y: 644}
+  m_MinSize: {x: 950, y: 522}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -43,10 +43,10 @@ MonoBehaviour:
     y: 30
     width: 1610
     height: 884
-  m_MinSize: {x: 783, y: 594}
-  m_MaxSize: {x: 18008, y: 14044}
+  m_MinSize: {x: 611, y: 472}
+  m_MaxSize: {x: 18006, y: 14044}
   vertical: 1
-  controlID: 45
+  controlID: 148
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -66,8 +66,8 @@ MonoBehaviour:
     y: 0
     width: 323
     height: 884
-  m_MinSize: {x: 277, y: 72}
-  m_MaxSize: {x: 4002, y: 4022}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -92,8 +92,8 @@ MonoBehaviour:
     y: 0
     width: 321
     height: 451
-  m_MinSize: {x: 204, y: 222}
-  m_MaxSize: {x: 4004, y: 4022}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 22}
   m_Panes:
   - {fileID: 22}
@@ -123,7 +123,7 @@ MonoBehaviour:
   m_MinSize: {x: 336, y: 272}
   m_MaxSize: {x: 14006, y: 10022}
   vertical: 0
-  controlID: 48
+  controlID: 60
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -171,10 +171,10 @@ MonoBehaviour:
     y: 0
     width: 1610
     height: 884
-  m_MinSize: {x: 783, y: 594}
-  m_MaxSize: {x: 18008, y: 14044}
+  m_MinSize: {x: 611, y: 472}
+  m_MaxSize: {x: 18006, y: 14044}
   vertical: 0
-  controlID: 46
+  controlID: 149
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -224,7 +224,7 @@ MonoBehaviour:
     y: 0
     width: 1610
     height: 934
-  m_MinSize: {x: 950, y: 644}
+  m_MinSize: {x: 950, y: 522}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &10
 MonoBehaviour:
@@ -290,10 +290,10 @@ MonoBehaviour:
     y: 0
     width: 1287
     height: 884
-  m_MinSize: {x: 506, y: 594}
+  m_MinSize: {x: 336, y: 472}
   m_MaxSize: {x: 14006, y: 14044}
   vertical: 1
-  controlID: 47
+  controlID: 150
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -315,10 +315,10 @@ MonoBehaviour:
     y: 0
     width: 1287
     height: 451
-  m_MinSize: {x: 506, y: 322}
-  m_MaxSize: {x: 8006, y: 4022}
+  m_MinSize: {x: 302, y: 200}
+  m_MaxSize: {x: 8002, y: 4022}
   vertical: 0
-  controlID: 144
+  controlID: 151
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -338,16 +338,16 @@ MonoBehaviour:
     y: 0
     width: 966
     height: 451
-  m_MinSize: {x: 302, y: 322}
+  m_MinSize: {x: 102, y: 122}
   m_MaxSize: {x: 4002, y: 4022}
-  m_ActualView: {fileID: 18}
+  m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
   - {fileID: 18}
   - {fileID: 17}
   - {fileID: 16}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -369,8 +369,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 526
+    x: 8
+    y: 532
     width: 968
     height: 414
   m_ViewDataDictionary: {fileID: 0}
@@ -425,7 +425,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -523,7 +523,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -621,7 +621,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -719,7 +719,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -817,7 +817,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -915,7 +915,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -1013,7 +1013,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -1111,7 +1111,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -1209,7 +1209,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -1307,7 +1307,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -1405,7 +1405,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -1503,7 +1503,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -1601,7 +1601,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -1699,7 +1699,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -1797,7 +1797,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -1895,7 +1895,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -1993,7 +1993,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -2091,7 +2091,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -2189,7 +2189,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -2287,7 +2287,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -2385,7 +2385,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -2483,7 +2483,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -2581,7 +2581,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -2679,7 +2679,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.8
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.ads@2.0.8
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.ads@2.0.8
         m_AssetPath: Packages/com.unity.ads
         m_Name: com.unity.ads
         m_DisplayName: 
@@ -2777,7 +2777,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -2889,7 +2889,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -3001,7 +3001,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -3113,7 +3113,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -3225,7 +3225,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -3337,7 +3337,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -3449,7 +3449,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -3561,7 +3561,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -3673,7 +3673,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -3785,7 +3785,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -3897,7 +3897,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -4009,7 +4009,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -4121,7 +4121,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -4233,7 +4233,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -4345,7 +4345,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -4457,7 +4457,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -4569,7 +4569,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -4681,7 +4681,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -4793,7 +4793,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -4905,7 +4905,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -5017,7 +5017,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -5129,7 +5129,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -5241,7 +5241,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -5353,7 +5353,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -5465,7 +5465,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -5577,7 +5577,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -5689,7 +5689,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -5801,7 +5801,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -5913,7 +5913,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 3.3.2
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.analytics@3.3.2
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.analytics@3.3.2
         m_AssetPath: Packages/com.unity.analytics
         m_Name: com.unity.analytics
         m_DisplayName: Analytics Library
@@ -6025,7 +6025,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -6096,7 +6096,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -6167,7 +6167,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -6238,7 +6238,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -6309,7 +6309,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -6383,7 +6383,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.1.2
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.package-manager-ui
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.package-manager-ui
         m_AssetPath: Packages/com.unity.package-manager-ui
         m_Name: com.unity.package-manager-ui
         m_DisplayName: Package Manager UI
@@ -6453,7 +6453,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.6
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.purchasing@2.0.6
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.purchasing@2.0.6
         m_AssetPath: Packages/com.unity.purchasing
         m_Name: com.unity.purchasing
         m_DisplayName: In App Purchasing
@@ -6582,7 +6582,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.6
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.purchasing@2.0.6
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.purchasing@2.0.6
         m_AssetPath: Packages/com.unity.purchasing
         m_Name: com.unity.purchasing
         m_DisplayName: In App Purchasing
@@ -6711,7 +6711,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.6
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.purchasing@2.0.6
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.purchasing@2.0.6
         m_AssetPath: Packages/com.unity.purchasing
         m_Name: com.unity.purchasing
         m_DisplayName: In App Purchasing
@@ -6840,7 +6840,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.6
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.purchasing@2.0.6
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.purchasing@2.0.6
         m_AssetPath: Packages/com.unity.purchasing
         m_Name: com.unity.purchasing
         m_DisplayName: In App Purchasing
@@ -6969,7 +6969,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.6
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.purchasing@2.0.6
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.purchasing@2.0.6
         m_AssetPath: Packages/com.unity.purchasing
         m_Name: com.unity.purchasing
         m_DisplayName: In App Purchasing
@@ -7098,7 +7098,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.6
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.purchasing@2.0.6
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.purchasing@2.0.6
         m_AssetPath: Packages/com.unity.purchasing
         m_Name: com.unity.purchasing
         m_DisplayName: In App Purchasing
@@ -7227,7 +7227,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.6
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.purchasing@2.0.6
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.purchasing@2.0.6
         m_AssetPath: Packages/com.unity.purchasing
         m_Name: com.unity.purchasing
         m_DisplayName: In App Purchasing
@@ -7356,7 +7356,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.6
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.purchasing@2.0.6
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.purchasing@2.0.6
         m_AssetPath: Packages/com.unity.purchasing
         m_Name: com.unity.purchasing
         m_DisplayName: In App Purchasing
@@ -7485,7 +7485,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.6
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.purchasing@2.0.6
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.purchasing@2.0.6
         m_AssetPath: Packages/com.unity.purchasing
         m_Name: com.unity.purchasing
         m_DisplayName: In App Purchasing
@@ -7614,7 +7614,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.6
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.purchasing@2.0.6
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.purchasing@2.0.6
         m_AssetPath: Packages/com.unity.purchasing
         m_Name: com.unity.purchasing
         m_DisplayName: In App Purchasing
@@ -7743,7 +7743,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.6
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.purchasing@2.0.6
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.purchasing@2.0.6
         m_AssetPath: Packages/com.unity.purchasing
         m_Name: com.unity.purchasing
         m_DisplayName: In App Purchasing
@@ -7872,7 +7872,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.6
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.purchasing@2.0.6
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.purchasing@2.0.6
         m_AssetPath: Packages/com.unity.purchasing
         m_Name: com.unity.purchasing
         m_DisplayName: In App Purchasing
@@ -8001,7 +8001,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.6
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.purchasing@2.0.6
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.purchasing@2.0.6
         m_AssetPath: Packages/com.unity.purchasing
         m_Name: com.unity.purchasing
         m_DisplayName: In App Purchasing
@@ -8130,7 +8130,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.6
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.purchasing@2.0.6
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.purchasing@2.0.6
         m_AssetPath: Packages/com.unity.purchasing
         m_Name: com.unity.purchasing
         m_DisplayName: In App Purchasing
@@ -8259,7 +8259,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.6
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.purchasing@2.0.6
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.purchasing@2.0.6
         m_AssetPath: Packages/com.unity.purchasing
         m_Name: com.unity.purchasing
         m_DisplayName: In App Purchasing
@@ -8388,7 +8388,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.6
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.purchasing@2.0.6
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.purchasing@2.0.6
         m_AssetPath: Packages/com.unity.purchasing
         m_Name: com.unity.purchasing
         m_DisplayName: In App Purchasing
@@ -8517,7 +8517,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.6
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.purchasing@2.0.6
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.purchasing@2.0.6
         m_AssetPath: Packages/com.unity.purchasing
         m_Name: com.unity.purchasing
         m_DisplayName: In App Purchasing
@@ -8646,7 +8646,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.6
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.purchasing@2.0.6
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.purchasing@2.0.6
         m_AssetPath: Packages/com.unity.purchasing
         m_Name: com.unity.purchasing
         m_DisplayName: In App Purchasing
@@ -8775,7 +8775,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.6
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.purchasing@2.0.6
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.purchasing@2.0.6
         m_AssetPath: Packages/com.unity.purchasing
         m_Name: com.unity.purchasing
         m_DisplayName: In App Purchasing
@@ -8904,7 +8904,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.6
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.purchasing@2.0.6
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.purchasing@2.0.6
         m_AssetPath: Packages/com.unity.purchasing
         m_Name: com.unity.purchasing
         m_DisplayName: In App Purchasing
@@ -9033,7 +9033,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.6
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.purchasing@2.0.6
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.purchasing@2.0.6
         m_AssetPath: Packages/com.unity.purchasing
         m_Name: com.unity.purchasing
         m_DisplayName: In App Purchasing
@@ -9162,7 +9162,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.6
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.purchasing@2.0.6
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.purchasing@2.0.6
         m_AssetPath: Packages/com.unity.purchasing
         m_Name: com.unity.purchasing
         m_DisplayName: In App Purchasing
@@ -9299,7 +9299,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -9449,7 +9449,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -9599,7 +9599,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -9749,7 +9749,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -9899,7 +9899,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -10049,7 +10049,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -10199,7 +10199,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -10349,7 +10349,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -10499,7 +10499,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -10649,7 +10649,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -10799,7 +10799,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -10949,7 +10949,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -11099,7 +11099,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -11249,7 +11249,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -11399,7 +11399,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -11549,7 +11549,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -11699,7 +11699,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -11849,7 +11849,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -11999,7 +11999,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -12149,7 +12149,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -12299,7 +12299,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -12449,7 +12449,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -12574,7 +12574,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.timeline
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.timeline
         m_AssetPath: Packages/com.unity.timeline
         m_Name: com.unity.timeline
         m_DisplayName: Unity Timeline
@@ -12630,7 +12630,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.36.0
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.xr.oculus.android@1.36.0
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.xr.oculus.android@1.36.0
         m_AssetPath: Packages/com.unity.xr.oculus.android
         m_Name: com.unity.xr.oculus.android
         m_DisplayName: Oculus (Android)
@@ -12700,7 +12700,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.36.0
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.xr.oculus.android@1.36.0
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.xr.oculus.android@1.36.0
         m_AssetPath: Packages/com.unity.xr.oculus.android
         m_Name: com.unity.xr.oculus.android
         m_DisplayName: Oculus (Android)
@@ -12770,7 +12770,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.36.0
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.xr.oculus.standalone@1.36.0
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.xr.oculus.standalone@1.36.0
         m_AssetPath: Packages/com.unity.xr.oculus.standalone
         m_Name: com.unity.xr.oculus.standalone
         m_DisplayName: Oculus (Desktop)
@@ -12839,7 +12839,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.36.0
         m_Source: 1
-        m_ResolvedPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3/Library/PackageCache/com.unity.xr.oculus.standalone@1.36.0
+        m_ResolvedPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3\Library\PackageCache\com.unity.xr.oculus.standalone@1.36.0
         m_AssetPath: Packages/com.unity.xr.oculus.standalone
         m_Name: com.unity.xr.oculus.standalone
         m_DisplayName: Oculus (Desktop)
@@ -12907,7 +12907,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai
         m_AssetPath: Packages/com.unity.modules.ai
         m_Name: com.unity.modules.ai
         m_DisplayName: AI
@@ -12957,7 +12957,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation
         m_AssetPath: Packages/com.unity.modules.animation
         m_Name: com.unity.modules.animation
         m_DisplayName: Animation
@@ -13007,7 +13007,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle
         m_AssetPath: Packages/com.unity.modules.assetbundle
         m_Name: com.unity.modules.assetbundle
         m_DisplayName: Asset Bundle
@@ -13057,7 +13057,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio
         m_AssetPath: Packages/com.unity.modules.audio
         m_Name: com.unity.modules.audio
         m_DisplayName: Audio
@@ -13107,7 +13107,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth
         m_AssetPath: Packages/com.unity.modules.cloth
         m_Name: com.unity.modules.cloth
         m_DisplayName: Cloth
@@ -13161,7 +13161,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director
         m_AssetPath: Packages/com.unity.modules.director
         m_Name: com.unity.modules.director
         m_DisplayName: Director
@@ -13220,7 +13220,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion
         m_AssetPath: Packages/com.unity.modules.imageconversion
         m_Name: com.unity.modules.imageconversion
         m_DisplayName: Image Conversion
@@ -13271,7 +13271,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui
         m_AssetPath: Packages/com.unity.modules.imgui
         m_Name: com.unity.modules.imgui
         m_DisplayName: IMGUI
@@ -13321,7 +13321,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize
         m_AssetPath: Packages/com.unity.modules.jsonserialize
         m_Name: com.unity.modules.jsonserialize
         m_DisplayName: JSONSerialize
@@ -13371,7 +13371,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem
         m_AssetPath: Packages/com.unity.modules.particlesystem
         m_Name: com.unity.modules.particlesystem
         m_DisplayName: Particle System
@@ -13421,7 +13421,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics
         m_AssetPath: Packages/com.unity.modules.physics
         m_Name: com.unity.modules.physics
         m_DisplayName: Physics
@@ -13471,7 +13471,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d
         m_AssetPath: Packages/com.unity.modules.physics2d
         m_Name: com.unity.modules.physics2d
         m_DisplayName: Physics 2D
@@ -13521,7 +13521,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture
         m_AssetPath: Packages/com.unity.modules.screencapture
         m_Name: com.unity.modules.screencapture
         m_DisplayName: Screen Capture
@@ -13575,7 +13575,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain
         m_AssetPath: Packages/com.unity.modules.terrain
         m_Name: com.unity.modules.terrain
         m_DisplayName: Terrain
@@ -13625,7 +13625,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics
         m_AssetPath: Packages/com.unity.modules.terrainphysics
         m_Name: com.unity.modules.terrainphysics
         m_DisplayName: Terrain Physics
@@ -13683,7 +13683,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap
         m_AssetPath: Packages/com.unity.modules.tilemap
         m_Name: com.unity.modules.tilemap
         m_DisplayName: Tilemap
@@ -13737,7 +13737,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui
         m_AssetPath: Packages/com.unity.modules.ui
         m_Name: com.unity.modules.ui
         m_DisplayName: UI
@@ -13787,7 +13787,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements
         m_AssetPath: Packages/com.unity.modules.uielements
         m_Name: com.unity.modules.uielements
         m_DisplayName: UIElements
@@ -13841,7 +13841,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra
         m_AssetPath: Packages/com.unity.modules.umbra
         m_Name: com.unity.modules.umbra
         m_DisplayName: Umbra
@@ -13891,7 +13891,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics
         m_AssetPath: Packages/com.unity.modules.unityanalytics
         m_Name: com.unity.modules.unityanalytics
         m_DisplayName: Unity Analytics
@@ -13949,7 +13949,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest
         m_AssetPath: Packages/com.unity.modules.unitywebrequest
         m_Name: com.unity.modules.unitywebrequest
         m_DisplayName: Unity Web Request
@@ -13999,7 +13999,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle
         m_AssetPath: Packages/com.unity.modules.unitywebrequestassetbundle
         m_Name: com.unity.modules.unitywebrequestassetbundle
         m_DisplayName: Unity Web Request Asset Bundle
@@ -14057,7 +14057,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio
         m_AssetPath: Packages/com.unity.modules.unitywebrequestaudio
         m_Name: com.unity.modules.unitywebrequestaudio
         m_DisplayName: Unity Web Request Audio
@@ -14115,7 +14115,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture
         m_AssetPath: Packages/com.unity.modules.unitywebrequesttexture
         m_Name: com.unity.modules.unitywebrequesttexture
         m_DisplayName: Unity Web Request Texture
@@ -14173,7 +14173,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww
         m_AssetPath: Packages/com.unity.modules.unitywebrequestwww
         m_Name: com.unity.modules.unitywebrequestwww
         m_DisplayName: Unity Web Request WWW
@@ -14247,7 +14247,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles
         m_AssetPath: Packages/com.unity.modules.vehicles
         m_Name: com.unity.modules.vehicles
         m_DisplayName: Vehicles
@@ -14301,7 +14301,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video
         m_AssetPath: Packages/com.unity.modules.video
         m_Name: com.unity.modules.video
         m_DisplayName: Video
@@ -14363,7 +14363,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr
         m_AssetPath: Packages/com.unity.modules.vr
         m_Name: com.unity.modules.vr
         m_DisplayName: VR
@@ -14425,7 +14425,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind
         m_AssetPath: Packages/com.unity.modules.wind
         m_Name: com.unity.modules.wind
         m_DisplayName: Wind
@@ -14475,7 +14475,7 @@ MonoBehaviour:
         m_IsRootDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: /Applications/Unity/Hub/Editor/2019.1.6f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr
         m_AssetPath: Packages/com.unity.modules.xr
         m_Name: com.unity.modules.xr
         m_DisplayName: XR
@@ -87833,8 +87833,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 75
+    x: 8
+    y: 81
     width: 966
     height: 432
   m_ViewDataDictionary: {fileID: 0}
@@ -87863,8 +87863,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1287
-    y: 75
+    x: 1295
+    y: 81
     width: 321
     height: 865
   m_ViewDataDictionary: {fileID: 0}
@@ -87899,8 +87899,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 75
+    x: 8
+    y: 81
     width: 966
     height: 432
   m_ViewDataDictionary: {fileID: 0}
@@ -87916,7 +87916,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: -0.81062806, y: 0.6799997, z: -0.27349997}
     speed: 2
-    m_Value: {x: -0.81062144, y: 0.67999417, z: -0.27349773}
+    m_Value: {x: -0.81062806, y: 0.6799997, z: -0.27349997}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -87951,7 +87951,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 0.36676425
     speed: 2
-    m_Value: 0.3667648
+    m_Value: 0.36676425
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -87997,8 +87997,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 968
-    y: 526
+    x: 976
+    y: 532
     width: 317
     height: 414
   m_ViewDataDictionary: {fileID: 0}
@@ -88019,14 +88019,14 @@ MonoBehaviour:
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/david/sites/__purplemaia/__vr/_vrtk3-3/template_unity2019_1_vrtk3
+  m_LastProjectPath: C:\Users\dpick\__code\unity-projects\__vrtk3-3\template_unity2019_1_vrtk3
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: b6280000
     m_LastClickedID: 10422
-    m_ExpandedIDs: 00000000042f00000a2f0000622f0000a62f00001c30000058300000dc310000e0340000ea350000fe360000
+    m_ExpandedIDs: 000000007c61000082610000c4610000f66100004e6200007a6200009e630000ce6500009c6600005c670000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -88054,21 +88054,21 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000042f00000a2f0000622f0000a62f00001c30000058300000dc310000e0340000ea350000fe360000
+    m_ExpandedIDs: ffffffff000000007c61000082610000c46100004e6200007a6200009e6300009c6600005c670000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: climbing_example
-      m_OriginalName: climbing_example
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 12468
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 6}
     m_SearchString: 
@@ -88130,31 +88130,31 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 966
-    y: 75
+    x: 974
+    y: 81
     width: 319
     height: 432
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 34620000
       m_LastClickedID: 0
-      m_ExpandedIDs: c8bbfffffebbffff0cbcffffcebefffff2c5ffffc6d6ffffaad9ffff14e2ffff7aeaffff28ebffff5eebffff68ebffffcaf0ffffa0f2ffff56f3ffff8af3ffff94f3ffffc6f6fffffaf6ffff44faffff88fbffffe2410000304200000e43000010430000124300001443000018430000744300008a43000056590000585900005a5900005c5900006059000088590000ba590000145b0000187e0000867e0000a2810000a4810000a6810000a8810000ac8100000494000008940000ac950000e29c00004e9d000026a6000046a80000
+      m_ExpandedIDs: 16c0ffff5ec3ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Gun
-        m_OriginalName: Gun
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 38232
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -88185,8 +88185,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 526
+    x: 8
+    y: 532
     width: 968
     height: 414
   m_ViewDataDictionary: {fileID: 0}
